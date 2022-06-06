@@ -13,3 +13,21 @@ python -m http.server 8000
 ```bash
 python -m SimpleHTTPServer 8000
 ```
+
+## Controls
+
+### Moving the Viewer
+ - ``Up, Down, Left, Right Arrows``
+ 
+### Walls
+ - Build a wall: Click two points
+ - Reset all wall: ``Delete``
+
+### Visualisation Modes
+ - Radiation Mode: ``Num 1``
+   - Emit light rays from origin
+   - Show Areas: ``A``
+ - Corner Mode: ``Num 2``
+   - Calculate lines between corners and origin 
+ - Mix Mode: ``Num 3``
+
