@@ -17,7 +17,7 @@ python -m SimpleHTTPServer 8000
 ## Controls
 
 ### Moving the Viewer
- - ``Up, Down, Left, Right Arrows``
+ - `` ↑ ↓ ← → ``
  
 ### Walls
  - Build a wall: Click two points
